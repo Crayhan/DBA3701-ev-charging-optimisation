@@ -1,0 +1,8 @@
+demand_id,demand_name,node_type,b_j_inc
+D1,Tampines North HDB Cluster,Residential,135.0001191
+D2,Simei Estate,Residential,127.8521913
+D3,Bedok Central,Residential,286.5371505
+D4,Paya Lebar Quarter,Employment,303.994104
+D5,Changi Business Park,Employment,21.99144106
+D6,Pasir Ris Downtown,Residential,91.88399026
+D7,Marine Parade,Residential,102.1204557
